@@ -21,3 +21,11 @@ Project folder structure
   + Controller: Folder for handle logical request and return the response for each route
   
   ![image](https://user-images.githubusercontent.com/67794875/217317698-05b22efd-a350-4b49-b837-88113ff2a3cd.png)
+  
+  Run the project
+  Create 2 terminal
+  Client: cd client -> npm start
+  Server: cd server -> npm start
+
+  Demo
+  
