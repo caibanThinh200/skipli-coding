@@ -11,4 +11,6 @@ Before access to the project:
 
 Project folder structure
 - There will be 2 folder on the root represent for the client and server
-- On the client i use ReactJS so it will have the basic structure of the initial React project, there will be **App.js** file that is the root of all React components
+- On the client i use ReactJS so it will have the basic structure of the initial React project, there will be **App.js** file that is the root of all React components, it contains the <RootRouter> which is the component that implement React-router-dom for page route, and it would be the place to manange all the component by certain URL, and all the Component is put in the Page folder which has an index file to combine all toghether
+  
+![alt text](https://user-images.githubusercontent.com/67794875/217316128-9fa7414f-6a99-420e-955c-6d1384148bee.png)
