@@ -28,4 +28,9 @@ Project folder structure
   Server: cd server -> npm start
 
   Demo
+  Authetication page
+  ![image](https://user-images.githubusercontent.com/67794875/217319863-fefb760f-8ae4-427a-a2a9-ac98c091cafc.png)
+  Github users page
+  ![image](https://user-images.githubusercontent.com/67794875/217320792-261d245d-2c93-4c61-aa86-3d17ca6bb87f.png)
+
   
