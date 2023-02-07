@@ -11,3 +11,4 @@ Before access to the project:
 
 Project folder structure
 - There will be 2 folder on the root represent for the client and server
+- On the client i use ReactJS so it will have the basic structure of the initial React project, there will be **App.js** file that is the root of all React components
